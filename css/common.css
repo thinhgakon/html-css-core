@@ -331,3 +331,6 @@
   background-color: #f1f4f7;
   color: #3f4750;
 }
+a:hover{
+  text-decoration: none;
+}
